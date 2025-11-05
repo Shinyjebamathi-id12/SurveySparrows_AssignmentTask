@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Product Sync",
+    "date": "2025-11-05",
+    "start": "10:00",
+    "duration_min": 60
+  },
+  {
+    "id": 2,
+    "title": "Design Review",
+    "date": "2025-11-05",
+    "start": "10:00",
+    "duration_min": 30
+  },
+  {
+    "id": 3,
+    "title": "Interview - Rahul",
+    "date": "2025-11-07",
+    "start": "14:00",
+    "duration_min": 45
+  },
+  {
+    "id": 4,
+    "title": "Townhall",
+    "date": "2025-11-10",
+    "start": "16:00",
+    "duration_min": 60
+  },
+  {
+    "id": 5,
+    "title": "Sprint Planning",
+    "date": "2025-11-03",
+    "start": "09:30",
+    "duration_min": 90
+  },
+  {
+    "id": 6,
+    "title": "Coffee with Tina",
+    "date": "2025-12-01",
+    "start": "08:00",
+    "duration_min": 30
+  }
+]
