@@ -16,7 +16,3 @@ How to run
 3. App will open at http://localhost:3000
 
 Folder name: SurveySparrows_Assignment
-
-Notes
-- This app uses dayjs for date calculations.
-- To make it live, push to GitHub and enable GitHub Pages (or host the build).
